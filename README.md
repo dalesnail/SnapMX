@@ -6,3 +6,5 @@ I will include one example of a plate for this purpose to play around with, but 
 
 This repo is currently extremely rough and there are some issues with some part files. The conversion folder was converted from part file, to step, to part file again, to remove the edu license on them. 
 As a result, various files in the converted folder will have no legends on them, so bear with me while I track these down and re convert them. For now I've imcluded the original files, which you can grab from and use. 
+
+![](SolidSnap4.gif)
